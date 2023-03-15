@@ -1,5 +1,6 @@
 <h3 align="left">Hi there 👋 I'm Federico Lettere, a software developer ✨</h3>
 <h3 align="left">About me:</h3>
+- 📫 How to reach me **federico.lettere@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://it.linkedin.com/in/federico-lettere-418517162" target="blank">
