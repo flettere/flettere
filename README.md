@@ -1,4 +1,5 @@
-<h3 align="left">Hi there 👋 I'm Federico Lettere, a software developer ✨</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">I'm Federico Lettere, a software developer ✨</h3>
 
 <h3 align="left">About me</h3>
 <ul>
