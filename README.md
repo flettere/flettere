@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Federico Lettere, a software developer.
+### Hi there 👋 
+### I'm Federico Lettere, a software developer ✨
 
 <!--
 **flettere/flettere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
