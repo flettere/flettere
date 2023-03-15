@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Federico Lettere, a software developer ✨
-
+<h3 align="left">Hi there 👋 I'm Federico Lettere, a software developer ✨</h3>
 <h3 align="left">Connect with me:</h3>
 
 <!--
