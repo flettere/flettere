@@ -1,5 +1,12 @@
 <h3 align="left">Hi there 👋 I'm Federico Lettere, a software developer ✨</h3>
+<h3 align="left">About me:</h3>
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://it.linkedin.com/in/federico-lettere-418517162" target="blank">
+  <img align="center" src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="Sat Naing's Codepen Account" />
+</a>
+</p>
+
 
 <!--
 **flettere/flettere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
