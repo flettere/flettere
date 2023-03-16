@@ -5,7 +5,7 @@
 <ul>
   <li>💼 I’m currently working as a frontend developer in Lecce, Puglia</li>
   <li>📫 How to reach me <a href="mailto:federico.lettere@gmail.com" target="blank">federico.lettere@gmail.com</a></li>
-  <li>🚀 My website <a href="https://cvfedericolettere.netlify.app" target="blank">https://cvfedericolettere.netlify.app</a></li>
+  <li>🚀 My website <a href="https://cvfedericolettere.netlify.app" target="_blank">https://cvfedericolettere.netlify.app</a></li>
 </ul>
 
 <h3 align="left">Connect with me</h3>
